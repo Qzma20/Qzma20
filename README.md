@@ -16,12 +16,3 @@ I am Qzma20, student and Backend Developer from Russia, Barnaul:
 <code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
 <code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django"></code>
 <code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"></code>
-
-
-## 📊 Статистика GitHub
-
-![Ваш GitHub stats](https://github-readme-stats.vercel.app/api?username=Qzma20&show_icons=true&theme=radical)
-
-## 🏆 Достижения
-
-![Трофеи GitHub](https://github-profile-trophy.vercel.app/?username=Qzma20&theme=onedark&row=2&column=3)
