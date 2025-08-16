@@ -19,9 +19,4 @@ I am Qzma20, student and Backend Developer from Russia, Barnaul:
 
 
 ## 📊 Статистика GitHub
-
-![Ваш GitHub stats](https://github-readme-stats.vercel.app/api?username=Qzma20&show_icons=true&theme=radical)
-
-## 🏆 Достижения
-
-![Трофеи GitHub](https://github-profile-trophy.vercel.app/?username=Qzma20&theme=onedark&row=2&column=3)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qzma20&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
