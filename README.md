@@ -1,7 +1,5 @@
 <h1 align="center">👽 Qzma20 </h1>
 
-## Hi there 👋
-
 I am Qzma20, student and Backend Developer from Russia, Barnaul:
 - 🐍 I've been learning Python since 2022
 - ⚡️ I specialize in Backend Development since 2024
